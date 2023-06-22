@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SAS and refreshing my statistical knowledge**
 
-- 👨‍💻 All of my projects are available at here in Github
+- 👨‍💻 All of my projects are available at here on Github
 
 - 📫 How to reach me **ylzhou95@outlook.com**
 
