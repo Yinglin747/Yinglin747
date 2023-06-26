@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **air ticket prices analysis with Skyscanner API**
 
-- 🌱 I’m currently learning **SAS and refreshing my statistical knowledge**
+- 🌱 I’m currently **refreshing my statistical knowledge**
 
 - 👨‍💻 All of my projects are available at here on Github
 
