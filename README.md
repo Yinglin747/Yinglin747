@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yinglin(Nichole)</h1>
+<h1 align="center">Hi 👋, I'm Nichole(Yinglin)</h1>
 <h3 align="center">I'm an aspiring data analyst with a background in engineering and over three years of experience in the supply chain industry.</h5>
 
 - 🔭 I’m currently working on **air ticket prices analysis**
