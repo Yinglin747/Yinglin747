@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at here on Github
 
-- 📫 How to reach me **ylzhou95@outlook.com**
+- 📫 How to reach me **zhouyl.nichole@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
