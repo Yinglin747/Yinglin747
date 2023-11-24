@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at here on Github
 
-<h3 align="center">I created this GitHub profile to showcase data analysis projects I'm working on in my free time to continue strengthening my abilities. Over time, I aim to populate my GitHub with:
+I created this GitHub profile to showcase data analysis projects I'm working on in my free time to continue strengthening my abilities. Over time, I aim to populate my GitHub with:
 
 - Code samples of data pipelines and analysis techniques
 - Interactive data visualizations and dashboards
