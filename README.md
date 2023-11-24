@@ -1,18 +1,17 @@
 <h1 align="center">Hi there👋, I'm Nichole(Yinglin)</h1>
-<h4 align="center">I'm a data analyst in the supply chain industry. I have a background in engineering, but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. 
+<h4 align="center">I'm a data analyst in the supply chain industry. I have a background in engineering but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. 
   I'm eager to apply my analytical skills to supply chain data sets to identify trends, deviations, and optimization opportunities. Although I'm still early in my data analytics career, I'm actively building on my skillset. </h5>
 
 - 🔭 I’m currently working on **air ticket prices analysis**
 
 - 🌱 I’m currently **refreshing my statistical knowledge**
 
-- 👨‍💻 All of my projects are available at here on Github
 
 I created this GitHub profile to showcase data analysis projects I'm working on in my free time to continue strengthening my abilities. Over time, I aim to populate my GitHub with:
 
-- Code samples of data pipelines and analysis techniques
-- Interactive data visualizations and dashboards
-- Notebooks documenting my step-by-step process and key learnings
+- **Code samples of data pipelines and analysis techniques**
+- **Interactive data visualizations and dashboards**
+- **Notebooks documenting my step-by-step process and key learnings**
 
 If you'd be interested in connecting to discuss all things data, don't hesitate to reach out! I'm always eager to learn from fellow analysts more seasoned than myself.
 
