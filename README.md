@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Nichole(Yinglin)</h1>
-<h4 align="center">I'm an data analyst in the supply chain industry. I have a background in engineering , but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. I'm eager to apply my analytical skills to supply chain data sets to identify trends, deviations, and optimization opportunities. Although I'm still early in my data analytics career, I'm actively building on my skillset. </h5>
+<h4 align="center">I'm a data analyst in the supply chain industry. I have a background in engineering, but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. 
+  I'm eager to apply my analytical skills to supply chain data sets to identify trends, deviations, and optimization opportunities. Although I'm still early in my data analytics career, I'm actively building on my skillset. </h5>
 
 - 🔭 I’m currently working on **air ticket prices analysis**
 
