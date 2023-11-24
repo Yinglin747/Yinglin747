@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nichole(Yinglin)</h1>
-<h3 align="center">I'm a data analyst with a background in engineering and experience in the supply chain industry.</h5>
+<h1 align="center">Hi there👋, I'm Nichole(Yinglin)</h1>
+<h3 align="center">I'm an data analyst in the supply chain industry. I have a background in engineering , but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. I'm eager to apply my analytical skills to supply chain data sets to identify trends, deviations, and optimization opportunities. Although I'm still early in my data analytics career, I'm actively building on my skillset. </h5>
 
 - 🔭 I’m currently working on **air ticket prices analysis**
 
@@ -7,6 +7,17 @@
 
 - 👨‍💻 All of my projects are available at here on Github
 
+<h3 align="center">I created this GitHub profile to showcase data analysis projects I'm working on in my free time to continue strengthening my abilities. Over time, I aim to populate my GitHub with:
+
+- Code samples of data pipelines and analysis techniques
+- Interactive data visualizations and dashboards
+- Notebooks documenting my step-by-step process and key learnings
+
+If you'd be interested in connecting to discuss all things data, don't hesitate to reach out! I'm always eager to learn from fellow analysts more seasoned than myself.
+
+Beyond data analytics, some of my hobbies and interests include hiking, wild camping, plane spotting and landscape photography.
+
+Let's connect!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
