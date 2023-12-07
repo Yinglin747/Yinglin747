@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **API-based air ticket prices analysis**
 
-- 🌱 I’m currently **refreshing my knowledge on statistics**
+- 🌱 I’m currently **brushing up my knowledge on statistics**
 
 
 I created this GitHub profile to showcase data analysis projects I'm working on in my free time to continue strengthening my abilities. Over time, I aim to populate my GitHub with:
