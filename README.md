@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Yinglin (Nichole)</h1>
-<h4 align="center">I'm a data analyst in the supply chain industry. I have a background in engineering but have developed a strong interest in leveraging data to drive business insights. I bring a methodical, detail-oriented approach to data analysis. 
+<h4 align="center">I'm a data analyst in the supply chain industry. I have a background in engineering but have developed a strong interest in leveraging data to drive business insights.  
   I'm excited to use my analytical abilities to find patterns, outliers, and chances for optimisation in supply chain data sets as well as other fields. Although I'm still early in my data analytics career, I'm actively building on my skillset. </h5>
 
-- 🔭 I’m currently working on **API-based air ticket prices analysis**
+- 🔭 I’m currently working on **Geoguessr game player analysis**
 
 - 🌱 I’m currently **brushing up my knowledge on statistics and probability**
 
